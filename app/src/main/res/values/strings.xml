@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lanzar Moneda</string>
+    <string name="about">Acerca de</string>
+    <string name="help">Ayuda</string>
+    <string name="random">Números Aleatorios</string>
+    <string name="coins">Monedas México</string>
+    <string name="firstCoin">Monedas 1</string>
+    <string name="secondCoin">Monedas 2</string>
+    <string name="thirdCoin">Monedas 3</string>
+
+</resources>
